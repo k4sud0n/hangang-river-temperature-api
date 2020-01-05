@@ -1,4 +1,4 @@
-# Hangang River API
+# Hangang River Temperature API
 
 Unofficial Hangang river temperature API.
 
