@@ -1,0 +1,10 @@
+{
+  "name": "hangang-river-api",
+  "version": "Hangang river temperature API (Unofficial)",
+  "repository": "https://github.com/legitcode267/hangang-river-api",
+  "author": "legitcode267",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
